@@ -1,4 +1,4 @@
-# 💰 AtliQ Hardware Finance Analytics Project  
+# 💰 AtliQ Hardware Finance Analytics
 
 📌 A Finance Analytics project based on the AtliQ Hardware Sales Analysis project
 ---
