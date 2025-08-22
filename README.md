@@ -108,6 +108,9 @@ Strengthen data-driven financial planning.
 
 ---
 
-Connect With Me:
-
+## 👨‍💻 Connect With Me:  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  - Let’s connect and explore opportunities in data analytics and business intelligence.
+
+
+🔍 Currently seeking **Data Analyst opportunities in 2025**, where I can apply my skills in **data analysis, business intelligence, data modeling, and performance measurement** to help organizations unlock actionable insights, optimize processes, and enable data-driven decision-making.  
