@@ -1,7 +1,6 @@
 # 💰 AtliQ Hardware Finance Analytics Project  
 
-📌 A Finance Analytics project linked to the **AtliQ Hardware Sales Analytics** case study.  
-Using **Excel, Power Query, and Data Modeling**, this project builds **Profit & Loss (P&L) Reports** and **Gross Margin Insights** that support strategic financial decision-making.  
+📌 A Finance Analytics project based on the AtliQ Hardware Sales case study to create Profit & Loss reports and Gross Margin % insights for strategic financial decision-making.
 
 ---
 
