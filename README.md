@@ -1,7 +1,6 @@
 # 💰 AtliQ Hardware Finance Analytics Project  
 
-📌 A Finance Analytics project based on the AtliQ Hardware Sales case study to create Profit & Loss reports and Gross Margin % insights for strategic financial decision-making.
-
+📌 A Finance Analytics project based on the AtliQ Hardware Sales Analysis project
 ---
 
 ## 📑 Table of Contents  
@@ -76,8 +75,9 @@ The project uses all datasets from the **Sales Analytics Project**, plus one add
 ---
 
 ## 📈 Deliverables  
-- 📑 **P&L by Year Report** → [P&L_for_Markets.pdf](reports/P&L_for_Markets.pdf) *(Opens directly in GitHub)*  
-- 📑 **Quarterly Gross Margin % Report** → [Quarterly_Growth_Margin_%.pdf](reports/Quarterly_Growth_Margin_%.pdf) *(Opens directly in GitHub)*  
+- 📑 **P&L by Year Report** → [P&L_for_Markets.pdf](reports/P&L_for_Markets.pdf)   
+- 📑 **Quarterly Gross Margin % Report** → [Quarterly_Growth_Margin_%.pdf](reports/Quarterly_Growth_Margin_%.pdf)   
+- 📊 **Full Excel File** → [AtliQ_Hardware_Financial_Analysis.xlsx](reports/AtliQ_Hardware_Financial_Analysis.xlsx)   
 
 ---
 
@@ -108,6 +108,6 @@ Strengthen data-driven financial planning.
 
 ---
 
-Connect With Me
+Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  - Let’s connect and explore opportunities in data analytics and business intelligence.
