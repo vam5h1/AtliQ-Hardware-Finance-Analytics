@@ -106,4 +106,8 @@ Strengthen data-driven financial planning.
 
 📌 This reflects how a professional Data Analyst not only reports revenue but also delivers actionable financial insights that drive profitability and strategy.
 
+---
+
+Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
