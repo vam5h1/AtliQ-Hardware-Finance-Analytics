@@ -76,11 +76,20 @@ The project uses all datasets from the **Sales Analytics Project**, plus one add
 
 ## 📈 Deliverables
 
-📑 P&L by Year Report → [P&L_For_Markets.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/P%26L_For_Markets.pdf)
+Here’s what you’ll find in this project repository:
 
-📑 Quarterly Gross Margin % Report → [Quarterly_Growth_Margin_%.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/Quarterly_Growth_Margin_%25.pdf)
+### 📑 P&L Reports
+- **P&L by Year Report:** [P&L_For_Markets.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/P%26L_For_Markets.pdf)  
+  Provides Revenue, Cost of Sales, and Gross Margin % by market and year for strategic financial insights.
 
-📊 Full Excel File → [AtliQ_Hardware_Financial_Analysis.xlsx](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/AtliQ_Hardware_Financial_Analysis.xlsx)
+- **Quarterly Gross Margin % Report:** [Quarterly_Growth_Margin_%.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/Quarterly_Growth_Margin_%25.pdf)  
+  Tracks Gross Margin % across quarters and markets to identify cost fluctuations and improvement opportunities.
+
+### 📊 Excel Dashboard
+- **Full Finance Analytics File:** [AtliQ_Hardware_Financial_Analysis.xlsx](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/AtliQ_Hardware_Financial_Analysis.xlsx)  
+  Contains pivot tables, dashboards, and calculated measures for end-to-end finance analytics.
+
+> 💡 **Tip:** Click on the links above to view PDFs directly in GitHub, or download the Excel file to explore dashboards and P&L calculations interactively.
 
 ---
 
