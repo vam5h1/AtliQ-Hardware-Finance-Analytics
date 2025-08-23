@@ -74,9 +74,9 @@ The project uses all datasets from the **Sales Analytics Project**, plus one add
 
 ---
 
-## 📈 Deliverables
-📑 P&L by Year Report → [P&L_For_Markets.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/P%26L_For_Markets.pdf)
-📑 Quarterly Gross Margin % Report → [Quarterly_Growth_Margin_%.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/Quarterly_Growth_Margin_%25.pdf)
+📈 Deliverables  
+📑 P&L by Year Report → [P&L_For_Markets.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/P%26L_For_Markets.pdf)  
+📑 Quarterly Gross Margin % Report → [Quarterly_Growth_Margin_%.pdf](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/Quarterly_Growth_Margin_%25.pdf)  
 📊 Full Excel File → [AtliQ_Hardware_Financial_Analysis.xlsx](https://github.com/vam5h1/AtliQ-Hardware-Finance-Analytics/blob/main/reports/AtliQ_Hardware_Financial_Analysis.xlsx)
 
 
