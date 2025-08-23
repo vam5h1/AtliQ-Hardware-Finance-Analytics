@@ -91,7 +91,7 @@ The project uses all datasets from the **Sales Analytics Project**, plus one add
 
 ---
 
-🏆 Conclusion
+## 🏆 Conclusion
 
 This project demonstrates how sales data can be extended with cost data to produce finance-oriented analytics.
 By building P&L statements and Gross Margin reports, the project enables AtliQ Hardware to:
